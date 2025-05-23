@@ -33,4 +33,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Cybrite/LeetCode/tree/master/1013-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Cybrite/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Sliding Window
+|  |
+| ------- |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Cybrite/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Sorting
+|  |
+| ------- |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Cybrite/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->
