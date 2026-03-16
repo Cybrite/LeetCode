@@ -14,10 +14,11 @@ public:
 
         while(l <= r){
             int m = l + (r-l)/2;
+            int api = guess(m);
 
-            if(guess(m) == 0) return m;
+            if(api == 0) return m;
 
-            if(guess(m) == 1){
+            if(api == 1){
                 l = m + 1;
             }else{
                 r = m - 1;
