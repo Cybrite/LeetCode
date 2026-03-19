@@ -9,7 +9,7 @@ public:
             if (nums[left] == nums[mid] && nums[mid] == nums[right]) {
                 left++;
                 right--;
-                continue;
+                continue; // to avoid loop repetition
             }
 
             if(nums[mid] > nums[right]){
