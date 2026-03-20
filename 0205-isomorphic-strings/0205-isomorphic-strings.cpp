@@ -3,17 +3,20 @@ public:
     bool isIsomorphic(string s, string t) {
         int n = s.length();
 
-        for(int i = 0; i < n; i++){
-            char c1 = s[i];
-            char c2 = t[i];
+        vector<bool> marked(256,false);
+        vector<int> map(256,-1);
 
-            for(int j = 0; j<n; j++){
-                if(s[j] == c1 && t[j] != c2){
-                    return false;
-                }
-                if(t[j] == c2 && s[j] != c1){
-                    return false;
-                }
+        for(int i=0; i<n; i++){
+            unsigned char c1 = s[i] - 'a';
+            unsigned char c2 = t[i] - 'a';
+
+            if(map[c1] == -1){
+                if(marked[c2]) return false;
+
+                map[c1] = c2;
+                marked[c2] = true;
+            }else if(map[c1] != c2){
+                return false;
             }
         }
         return true;
