@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Cybrite/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Cybrite/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Cybrite/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/Cybrite/LeetCode/tree/master/0383-ransom-note) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Cybrite/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Math
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Cybrite/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Cybrite/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Cybrite/LeetCode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Cybrite/LeetCode/tree/master/0383-ransom-note) |
 ## Two Pointers
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Cybrite/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Cybrite/LeetCode/tree/master/0383-ransom-note) |
 | [0948-sort-an-array](https://github.com/Cybrite/LeetCode/tree/master/0948-sort-an-array) |
 ## Binary Search
 |  |
