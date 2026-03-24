@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Cybrite/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Cybrite/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/Cybrite/LeetCode/tree/master/0400-nth-digit) |
+| [0415-add-strings](https://github.com/Cybrite/LeetCode/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/Cybrite/LeetCode/tree/master/1013-fibonacci-number) |
 ## String
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Cybrite/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Cybrite/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Cybrite/LeetCode/tree/master/0383-ransom-note) |
+| [0415-add-strings](https://github.com/Cybrite/LeetCode/tree/master/0415-add-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Cybrite/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Cybrite/LeetCode/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/Cybrite/LeetCode/tree/master/0415-add-strings) |
 ## Stack
 |  |
 | ------- |
