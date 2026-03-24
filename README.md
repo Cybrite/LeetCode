@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Cybrite/LeetCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Cybrite/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Cybrite/LeetCode/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/Cybrite/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Cybrite/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Cybrite/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Cybrite/LeetCode/tree/master/0268-missing-number) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Cybrite/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Cybrite/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Cybrite/LeetCode/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/Cybrite/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Cybrite/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Cybrite/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Cybrite/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
