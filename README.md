@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Cybrite/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Cybrite/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Cybrite/LeetCode/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/Cybrite/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Cybrite/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Cybrite/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Cybrite/LeetCode/tree/master/0069-sqrtx) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Cybrite/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Cybrite/LeetCode/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/Cybrite/LeetCode/tree/master/0062-unique-paths) |
 | [0152-maximum-product-subarray](https://github.com/Cybrite/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/Cybrite/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -278,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Cybrite/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Cybrite/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Cybrite/LeetCode/tree/master/0206-reverse-linked-list) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Cybrite/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
