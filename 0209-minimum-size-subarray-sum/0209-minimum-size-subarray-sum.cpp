@@ -12,7 +12,6 @@ public:
             }
         }
 
-       if(res == INT_MAX) return 0;
-       return res;
+       return res == INT_MAX ? 0 : res;
     }
 };
