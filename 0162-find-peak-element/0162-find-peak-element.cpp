@@ -6,12 +6,14 @@ public:
         int right = n-1;
 
         while(left < right){
-            if(nums[left]<=nums[right]){
-                left++;
+            int mid = left + (right-left)/2;
+
+            if(nums[mid]<nums[mid+1]){
+                left = mid+1;;
             }else{
-                right--;
+                right = mid;
             }
         }
-        return left;
+        return right;
     }
 };
