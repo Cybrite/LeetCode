@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Cybrite/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Cybrite/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Cybrite/LeetCode/tree/master/0268-missing-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Cybrite/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/Cybrite/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/Cybrite/LeetCode/tree/master/0400-nth-digit) |
 | [0415-add-strings](https://github.com/Cybrite/LeetCode/tree/master/0415-add-strings) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Cybrite/LeetCode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Cybrite/LeetCode/tree/master/0062-unique-paths) |
 | [0152-maximum-product-subarray](https://github.com/Cybrite/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Cybrite/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [1013-fibonacci-number](https://github.com/Cybrite/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Cybrite/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Cybrite/LeetCode/tree/master/0022-generate-parentheses) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Cybrite/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Matrix
 |  |
 | ------- |
