@@ -25,7 +25,7 @@ public:
         }
 
         ListNode* toDelete = slow->next;
-        slow->next = slow->next->next;
+        slow->next = slow->next->next; // linking the LL again
         delete toDelete;
 
         return temp->next;
