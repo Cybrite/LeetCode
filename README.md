@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Cybrite/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Cybrite/LeetCode/tree/master/0389-find-the-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Cybrite/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Cybrite/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Math
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Cybrite/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Cybrite/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Cybrite/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Cybrite/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Sliding Window
 |  |
 | ------- |
