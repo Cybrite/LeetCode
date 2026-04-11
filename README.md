@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Cybrite/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Cybrite/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Cybrite/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Cybrite/LeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Cybrite/LeetCode/tree/master/0268-missing-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Cybrite/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/Cybrite/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Cybrite/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Cybrite/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Cybrite/LeetCode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Cybrite/LeetCode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Cybrite/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Cybrite/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [1013-fibonacci-number](https://github.com/Cybrite/LeetCode/tree/master/1013-fibonacci-number) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Cybrite/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Cybrite/LeetCode/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
