@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/Cybrite/LeetCode/tree/master/0400-nth-digit) |
 | [0415-add-strings](https://github.com/Cybrite/LeetCode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Cybrite/LeetCode/tree/master/0441-arranging-coins) |
+| [0976-largest-perimeter-triangle](https://github.com/Cybrite/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/Cybrite/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1013-fibonacci-number](https://github.com/Cybrite/LeetCode/tree/master/1013-fibonacci-number) |
 ## String
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Cybrite/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0942-di-string-match](https://github.com/Cybrite/LeetCode/tree/master/0942-di-string-match) |
 | [0948-sort-an-array](https://github.com/Cybrite/LeetCode/tree/master/0948-sort-an-array) |
+| [0976-largest-perimeter-triangle](https://github.com/Cybrite/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/Cybrite/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Cybrite/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Cybrite/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Cybrite/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Cybrite/LeetCode/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/Cybrite/LeetCode/tree/master/0948-sort-an-array) |
+| [0976-largest-perimeter-triangle](https://github.com/Cybrite/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Cybrite/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Cybrite/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Cybrite/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Cybrite/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Cybrite/LeetCode/tree/master/0561-array-partition) |
 | [0942-di-string-match](https://github.com/Cybrite/LeetCode/tree/master/0942-di-string-match) |
+| [0976-largest-perimeter-triangle](https://github.com/Cybrite/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 ## Trie
 |  |
 | ------- |
