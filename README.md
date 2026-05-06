@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Cybrite/LeetCode/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/Cybrite/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Cybrite/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0860-lemonade-change](https://github.com/Cybrite/LeetCode/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/Cybrite/LeetCode/tree/master/0942-di-string-match) |
 | [0948-sort-an-array](https://github.com/Cybrite/LeetCode/tree/master/0948-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/Cybrite/LeetCode/tree/master/0976-largest-perimeter-triangle) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Cybrite/LeetCode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Cybrite/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Cybrite/LeetCode/tree/master/0561-array-partition) |
+| [0860-lemonade-change](https://github.com/Cybrite/LeetCode/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/Cybrite/LeetCode/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/Cybrite/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 ## Trie
