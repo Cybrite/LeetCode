@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Cybrite/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/Cybrite/LeetCode/tree/master/0561-array-partition) |
 | [0622-design-circular-queue](https://github.com/Cybrite/LeetCode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Cybrite/LeetCode/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/Cybrite/LeetCode/tree/master/0704-binary-search) |
 | [0729-my-calendar-i](https://github.com/Cybrite/LeetCode/tree/master/0729-my-calendar-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Cybrite/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Cybrite/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Cybrite/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/Cybrite/LeetCode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Cybrite/LeetCode/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/Cybrite/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Cybrite/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Combinatorics
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Cybrite/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Cybrite/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Cybrite/LeetCode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Cybrite/LeetCode/tree/master/0641-design-circular-deque) |
 | [0729-my-calendar-i](https://github.com/Cybrite/LeetCode/tree/master/0729-my-calendar-i) |
 ## Segment Tree
 |  |
@@ -481,4 +484,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Cybrite/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Cybrite/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/Cybrite/LeetCode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Cybrite/LeetCode/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
