@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Cybrite/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Cybrite/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Cybrite/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0341-flatten-nested-list-iterator](https://github.com/Cybrite/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Cybrite/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## String Matching
 |  |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Cybrite/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Cybrite/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Cybrite/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0341-flatten-nested-list-iterator](https://github.com/Cybrite/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0622-design-circular-queue](https://github.com/Cybrite/LeetCode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Cybrite/LeetCode/tree/master/0641-design-circular-deque) |
 | [0729-my-calendar-i](https://github.com/Cybrite/LeetCode/tree/master/0729-my-calendar-i) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Cybrite/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Cybrite/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0341-flatten-nested-list-iterator](https://github.com/Cybrite/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0387-first-unique-character-in-a-string](https://github.com/Cybrite/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/Cybrite/LeetCode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Cybrite/LeetCode/tree/master/0641-design-circular-deque) |
@@ -499,4 +502,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Cybrite/LeetCode/tree/master/0933-number-of-recent-calls) |
+## Tree
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Cybrite/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
+## Depth-First Search
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Cybrite/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Cybrite/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
