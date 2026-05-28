@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Cybrite/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Cybrite/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Cybrite/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Cybrite/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Cybrite/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Cybrite/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Cybrite/LeetCode/tree/master/0118-pascals-triangle) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Cybrite/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Cybrite/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Cybrite/LeetCode/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/Cybrite/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/Cybrite/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Cybrite/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Cybrite/LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Cybrite/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Cybrite/LeetCode/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/Cybrite/LeetCode/tree/master/0078-subsets) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Cybrite/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Matrix
 |  |
