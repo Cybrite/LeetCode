@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Cybrite/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/Cybrite/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1013-fibonacci-number](https://github.com/Cybrite/LeetCode/tree/master/1013-fibonacci-number) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Cybrite/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## String
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Cybrite/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Cybrite/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Cybrite/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Cybrite/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Cybrite/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Sliding Window
 |  |
