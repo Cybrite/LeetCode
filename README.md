@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Cybrite/LeetCode/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Cybrite/LeetCode/tree/master/0415-add-strings) |
 | [0680-valid-palindrome-ii](https://github.com/Cybrite/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Cybrite/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/Cybrite/LeetCode/tree/master/0942-di-string-match) |
 | [3174-clear-digits](https://github.com/Cybrite/LeetCode/tree/master/3174-clear-digits) |
 ## Two Pointers
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Cybrite/LeetCode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Cybrite/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/Cybrite/LeetCode/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Cybrite/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/Cybrite/LeetCode/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/Cybrite/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 ## Trie
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/Cybrite/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0496-next-greater-element-i](https://github.com/Cybrite/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Cybrite/LeetCode/tree/master/0682-baseball-game) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Cybrite/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Cybrite/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3174-clear-digits](https://github.com/Cybrite/LeetCode/tree/master/3174-clear-digits) |
 ## String Matching
