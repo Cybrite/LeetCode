@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Cybrite/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Cybrite/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Cybrite/LeetCode/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Cybrite/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/Cybrite/LeetCode/tree/master/0268-missing-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Cybrite/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/Cybrite/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Cybrite/LeetCode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/Cybrite/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Cybrite/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Cybrite/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Cybrite/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Cybrite/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Cybrite/LeetCode/tree/master/0383-ransom-note) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Cybrite/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Cybrite/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/Cybrite/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Cybrite/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Cybrite/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0396-rotate-function](https://github.com/Cybrite/LeetCode/tree/master/0396-rotate-function) |
 | [1013-fibonacci-number](https://github.com/Cybrite/LeetCode/tree/master/1013-fibonacci-number) |
@@ -162,11 +165,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Cybrite/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Cybrite/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Cybrite/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Cybrite/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/Cybrite/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Cybrite/LeetCode/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Cybrite/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/Cybrite/LeetCode/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
