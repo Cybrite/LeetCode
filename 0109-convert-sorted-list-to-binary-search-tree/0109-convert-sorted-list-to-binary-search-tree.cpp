@@ -21,30 +21,28 @@
  */
 class Solution {
 public:
+    TreeNode* build(vector<int>& nums, int l, int r){
+        if(l > r) return NULL;
+
+        int mid = l + (r-l)/2;
+        TreeNode* root = new TreeNode(nums[mid]);
+
+        root->left = build(nums, l, mid-1);
+        root->right = build(nums, mid+1, r);
+
+        return root;
+    }
+
     TreeNode* sortedListToBST(ListNode* head) {
         if(!head) return NULL;
 
-        if(!head->next){
-            return new TreeNode(head->val);
+        vector<int> nums;
+
+        while(head){
+            nums.push_back(head->val);
+            head = head->next;
         }
 
-        ListNode* slow = head;
-        ListNode* fast = head;
-        ListNode* prev = NULL;
-
-        while(fast && fast->next){
-            prev = slow;
-            slow = slow->next;
-            fast = fast->next->next;
-        }
-
-        prev->next = NULL;
-
-        TreeNode* root = new TreeNode(slow->val);
-
-        root->left = sortedListToBST(head);
-        root->right = sortedListToBST(slow->next);
-
-        return root;
+        return build(nums, 0, nums.size()-1);
     }
 };
