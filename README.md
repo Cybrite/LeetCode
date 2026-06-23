@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/Cybrite/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Cybrite/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Cybrite/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1470-shuffle-the-array](https://github.com/Cybrite/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Cybrite/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Cybrite/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Cybrite/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
