@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Cybrite/LeetCode/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/Cybrite/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Cybrite/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Cybrite/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Cybrite/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Math
 |  |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Cybrite/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/Cybrite/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Cybrite/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Cybrite/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Cybrite/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/Cybrite/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Cybrite/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/Cybrite/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0976-largest-perimeter-triangle](https://github.com/Cybrite/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Cybrite/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Cybrite/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Cybrite/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Cybrite/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Cybrite/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Cybrite/LeetCode/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/Cybrite/LeetCode/tree/master/0948-sort-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Cybrite/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Cybrite/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
 | ------- |
