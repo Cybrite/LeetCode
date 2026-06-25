@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Cybrite/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Cybrite/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Cybrite/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Cybrite/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Cybrite/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Math
 |  |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Cybrite/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Cybrite/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Cybrite/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Cybrite/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Cybrite/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Sliding Window
 |  |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Cybrite/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Cybrite/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Cybrite/LeetCode/tree/master/0948-sort-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Cybrite/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Cybrite/LeetCode/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/Cybrite/LeetCode/tree/master/0948-sort-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Cybrite/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -376,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Cybrite/LeetCode/tree/master/0948-sort-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Cybrite/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Cybrite/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Cybrite/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -543,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Cybrite/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Cybrite/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Cybrite/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -569,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Cybrite/LeetCode/tree/master/0729-my-calendar-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Cybrite/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Ordered Set
 |  |
 | ------- |
