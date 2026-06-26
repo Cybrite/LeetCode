@@ -7,7 +7,8 @@ public:
 
         for(int i=0; i<n; i++){
             while(!st.empty() && temperatures[i] > temperatures[st.top()]){
-                res[st.top()] = i - st.top();
+                int idx = st.top();
+                res[idx] = i - idx;
                 st.pop();
             }
 
