@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Cybrite/LeetCode/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Cybrite/LeetCode/tree/master/0415-add-strings) |
 | [0680-valid-palindrome-ii](https://github.com/Cybrite/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0686-repeated-string-match](https://github.com/Cybrite/LeetCode/tree/master/0686-repeated-string-match) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Cybrite/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/Cybrite/LeetCode/tree/master/0942-di-string-match) |
 | [1189-maximum-number-of-balloons](https://github.com/Cybrite/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Cybrite/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/Cybrite/LeetCode/tree/master/0686-repeated-string-match) |
 ## Backtracking
 |  |
 | ------- |
