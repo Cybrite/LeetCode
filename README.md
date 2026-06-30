@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Cybrite/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Cybrite/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Cybrite/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Cybrite/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Cybrite/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Cybrite/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Cybrite/LeetCode/tree/master/0070-climbing-stairs) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Cybrite/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Cybrite/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Cybrite/LeetCode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/Cybrite/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Cybrite/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Cybrite/LeetCode/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/Cybrite/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Cybrite/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Cybrite/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Cybrite/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Cybrite/LeetCode/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Cybrite/LeetCode/tree/master/0409-longest-palindrome) |
