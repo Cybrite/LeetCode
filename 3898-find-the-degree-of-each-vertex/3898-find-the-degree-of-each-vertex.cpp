@@ -4,10 +4,7 @@ public:
         vector<int> ans;
 
         for(int i=0; i<matrix.size(); i++){
-            int sum = 0;
-            for(int j=0; j<matrix[i].size(); j++){
-                sum += matrix[i][j];
-            }
+            int sum = accumulate(matrix[i].begin(), matrix[i].end(), 0);
             ans.push_back(sum);
         }
 
