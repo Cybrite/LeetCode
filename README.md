@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Cybrite/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Cybrite/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Cybrite/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Cybrite/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Sliding Window
 |  |
 | ------- |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Cybrite/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Cybrite/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Cybrite/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Cybrite/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Interactive
 |  |
 | ------- |
@@ -788,4 +790,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Cybrite/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Cybrite/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
