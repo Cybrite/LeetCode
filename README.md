@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Cybrite/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Cybrite/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Cybrite/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Cybrite/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Cybrite/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Cybrite/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Cybrite/LeetCode/tree/master/0389-find-the-difference) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Cybrite/LeetCode/tree/master/0268-missing-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Cybrite/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/Cybrite/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Cybrite/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/Cybrite/LeetCode/tree/master/0396-rotate-function) |
 | [0400-nth-digit](https://github.com/Cybrite/LeetCode/tree/master/0400-nth-digit) |
 | [0415-add-strings](https://github.com/Cybrite/LeetCode/tree/master/0415-add-strings) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Cybrite/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Cybrite/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Cybrite/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Cybrite/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/Cybrite/LeetCode/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/Cybrite/LeetCode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Cybrite/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -627,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Cybrite/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Cybrite/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0341-flatten-nested-list-iterator](https://github.com/Cybrite/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Cybrite/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0622-design-circular-queue](https://github.com/Cybrite/LeetCode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Cybrite/LeetCode/tree/master/0641-design-circular-deque) |
 | [0729-my-calendar-i](https://github.com/Cybrite/LeetCode/tree/master/0729-my-calendar-i) |
@@ -809,4 +813,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/Cybrite/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Cybrite/LeetCode/tree/master/1791-find-center-of-star-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Cybrite/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Cybrite/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
