@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Cybrite/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Cybrite/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Cybrite/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Cybrite/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Cybrite/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Cybrite/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Math
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/Cybrite/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1013-fibonacci-number](https://github.com/Cybrite/LeetCode/tree/master/1013-fibonacci-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Cybrite/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Cybrite/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Cybrite/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Cybrite/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Cybrite/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Cybrite/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Cybrite/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Cybrite/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Cybrite/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Cybrite/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Cybrite/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Cybrite/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Cybrite/LeetCode/tree/master/0948-sort-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Cybrite/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Cybrite/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Cybrite/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Cybrite/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
@@ -469,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Cybrite/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Cybrite/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Cybrite/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Cybrite/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -610,11 +615,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Cybrite/LeetCode/tree/master/0062-unique-paths) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Cybrite/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Cybrite/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Cybrite/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Cybrite/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Cybrite/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Cybrite/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Cybrite/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -828,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Cybrite/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Cybrite/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Cybrite/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
