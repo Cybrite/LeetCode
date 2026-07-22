@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Cybrite/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Cybrite/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Cybrite/LeetCode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Cybrite/LeetCode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Cybrite/LeetCode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Cybrite/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Cybrite/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Cybrite/LeetCode/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/Cybrite/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Cybrite/LeetCode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/Cybrite/LeetCode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/Cybrite/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Cybrite/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Cybrite/LeetCode/tree/master/0078-subsets) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Cybrite/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Cybrite/LeetCode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Cybrite/LeetCode/tree/master/0068-text-justification) |
 | [0415-add-strings](https://github.com/Cybrite/LeetCode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Cybrite/LeetCode/tree/master/0682-baseball-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Cybrite/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
