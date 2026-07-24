@@ -1,22 +1,21 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        unordered_map<int, int> count;
-         
-        for(int num : nums) {
-            count[num]++;
+        unordered_map<int,int> mp;
+        int cnt = 0;
+        int ele = 0;
+
+        for(auto& n : nums){
+            mp[n]++;
         }
-        
-        int majorityElem = nums[0];
-        int maxCount = 0;
-        
-        for(auto& [num, freq] : count) {
-            if(freq > maxCount) {
-                maxCount = freq;
-                majorityElem = num;
+
+        for(auto& [n,f] : mp){
+            if(cnt < f){
+                cnt = f;
+                ele = n;
             }
         }
-        
-        return majorityElem;
+
+        return ele;
     }
 };
