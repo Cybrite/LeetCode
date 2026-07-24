@@ -4,8 +4,8 @@ public:
         int mini = prices[0];
         int profit = 0;
 
-        for(int i=0; i<prices.size(); i++){
-            profit = max(profit, prices[i] - mini);
+        for(int i=0; i<prices.size();  i++){
+            profit = max(profit , prices[i] - mini);
             mini = min(mini, prices[i]);
         }
 
