@@ -1,7 +1,7 @@
 class Solution {
 public:
     int romanToInt(string s) {
-               unordered_map<char, int> romanValues = {
+        unordered_map<char,int> romans = {
             {'I', 1},
             {'V', 5},
             {'X', 10},
@@ -10,21 +10,17 @@ public:
             {'D', 500},
             {'M', 1000}
         };
-        
-        int result = 0;
-        int n = s.length();
-        
-        for (int i = 0; i < n; i++) {
-           
-            if (i < n - 1 && romanValues[s[i]] < romanValues[s[i + 1]]) {
-                result -= romanValues[s[i]];
-            } 
-            
-            else {
-                result += romanValues[s[i]];
+
+        int res = 0;
+
+        for(int i=0; i<s.length(); i++){
+            if(i < s.length()-1 && romans[s[i]] < romans[s[i+1]]){
+                res -= romans[s[i]];
+            }else{
+                res += romans[s[i]];
             }
         }
-        
-        return result;
+
+        return res;
     }
 };
