@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Cybrite/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Cybrite/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Cybrite/LeetCode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Cybrite/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Cybrite/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Cybrite/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Cybrite/LeetCode/tree/master/0057-insert-interval) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Cybrite/LeetCode/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Cybrite/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Cybrite/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Cybrite/LeetCode/tree/master/0068-text-justification) |
 | [0415-add-strings](https://github.com/Cybrite/LeetCode/tree/master/0415-add-strings) |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Cybrite/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Cybrite/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Cybrite/LeetCode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Cybrite/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Cybrite/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Cybrite/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
