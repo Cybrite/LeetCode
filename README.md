@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Cybrite/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Cybrite/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Cybrite/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Cybrite/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Cybrite/LeetCode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Cybrite/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Cybrite/LeetCode/tree/master/0202-happy-number) |
@@ -653,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Cybrite/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Cybrite/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Cybrite/LeetCode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/Cybrite/LeetCode/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/Cybrite/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Cybrite/LeetCode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Cybrite/LeetCode/tree/master/0203-remove-linked-list-elements) |
@@ -691,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Cybrite/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Cybrite/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Cybrite/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Cybrite/LeetCode/tree/master/0225-implement-stack-using-queues) |
@@ -890,4 +893,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/Cybrite/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Cybrite/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Cybrite/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Cybrite/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
