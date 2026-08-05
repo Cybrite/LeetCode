@@ -11,10 +11,12 @@
  */
 class Solution {
 public:
-    void levelOrder(TreeNode* root, int &cnt){
-        if(root == NULL) return;
-        
+    int maxDepth(TreeNode* root) {
+        if(root == NULL) return 0;
+
+        int cnt = 0;
         queue<TreeNode*> q;
+
         q.push(root);
         q.push(NULL);
 
@@ -36,12 +38,6 @@ public:
                 }
             }
         }
-    }
-
-    int maxDepth(TreeNode* root) {
-        int cnt = 0;
-
-        levelOrder(root, cnt);
 
         return cnt;
     }
