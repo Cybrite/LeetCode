@@ -774,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Cybrite/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/Cybrite/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0543-diameter-of-binary-tree](https://github.com/Cybrite/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Cybrite/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -800,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Cybrite/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/Cybrite/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0543-diameter-of-binary-tree](https://github.com/Cybrite/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Cybrite/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Iterator
 |  |
 | ------- |
@@ -841,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Cybrite/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Cybrite/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Cybrite/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Cybrite/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -856,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Cybrite/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Cybrite/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Cybrite/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Cybrite/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Cybrite/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Search Tree
 |  |
