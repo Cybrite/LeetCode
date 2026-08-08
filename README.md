@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Cybrite/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Cybrite/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Cybrite/LeetCode/tree/master/0392-is-subsequence) |
+| [0399-evaluate-division](https://github.com/Cybrite/LeetCode/tree/master/0399-evaluate-division) |
 | [0409-longest-palindrome](https://github.com/Cybrite/LeetCode/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Cybrite/LeetCode/tree/master/0415-add-strings) |
 | [0680-valid-palindrome-ii](https://github.com/Cybrite/LeetCode/tree/master/0680-valid-palindrome-ii) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Cybrite/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Cybrite/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/Cybrite/LeetCode/tree/master/0396-rotate-function) |
+| [0399-evaluate-division](https://github.com/Cybrite/LeetCode/tree/master/0399-evaluate-division) |
 | [0414-third-maximum-number](https://github.com/Cybrite/LeetCode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Cybrite/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Cybrite/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -809,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Cybrite/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Cybrite/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/Cybrite/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
+| [0399-evaluate-division](https://github.com/Cybrite/LeetCode/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Cybrite/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Cybrite/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Cybrite/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -873,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Cybrite/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Cybrite/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Cybrite/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0399-evaluate-division](https://github.com/Cybrite/LeetCode/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Cybrite/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Cybrite/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Cybrite/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -898,11 +902,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Cybrite/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Cybrite/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Cybrite/LeetCode/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Cybrite/LeetCode/tree/master/0399-evaluate-division) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Cybrite/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Cybrite/LeetCode/tree/master/0133-clone-graph) |
+| [0399-evaluate-division](https://github.com/Cybrite/LeetCode/tree/master/0399-evaluate-division) |
 | [0997-find-the-town-judge](https://github.com/Cybrite/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Cybrite/LeetCode/tree/master/1791-find-center-of-star-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Cybrite/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -920,4 +926,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Cybrite/LeetCode/tree/master/0146-lru-cache) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Cybrite/LeetCode/tree/master/0399-evaluate-division) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Cybrite/LeetCode/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Cybrite/LeetCode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
