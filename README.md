@@ -956,4 +956,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Cybrite/LeetCode/tree/master/0207-course-schedule) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Cybrite/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
