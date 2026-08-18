@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Cybrite/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Cybrite/LeetCode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Cybrite/LeetCode/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/Cybrite/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Cybrite/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Cybrite/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Cybrite/LeetCode/tree/master/0179-largest-number) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Cybrite/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Cybrite/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Cybrite/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Cybrite/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Cybrite/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Cybrite/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Cybrite/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -623,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Cybrite/LeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Cybrite/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Cybrite/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Cybrite/LeetCode/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Cybrite/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/Cybrite/LeetCode/tree/master/0113-path-sum-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Cybrite/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -635,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Cybrite/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Cybrite/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Cybrite/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Cybrite/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Cybrite/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Cybrite/LeetCode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Cybrite/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -794,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Cybrite/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Cybrite/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Cybrite/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Cybrite/LeetCode/tree/master/0099-recover-binary-search-tree) |
