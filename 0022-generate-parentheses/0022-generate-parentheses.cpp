@@ -1,24 +1,29 @@
 class Solution {
 public:
+    vector<string> res;
 
-    void generate(vector<string> &ans,int n,string currAns,int openCount,int closeCount){
-        if(openCount > n) return;
-
-        if(openCount == n && closeCount == openCount){
-            ans.push_back(currAns);
+    void backtrack(int n,string& curr, int open, int close){
+        if(curr.size() == 2*n){
+            res.push_back(curr);
             return;
         }
 
-        generate(ans, n, currAns + "(", openCount + 1, closeCount);
+        if(open < n){
+            curr.push_back('(');
+            backtrack(n, curr, open+1, close);
+            curr.pop_back();
+        }
 
-        if(closeCount < openCount) {
-            generate(ans, n, currAns + ")", openCount, closeCount + 1);
+        if(close < open){
+            curr.push_back(')');
+            backtrack(n, curr, open, close+1);
+            curr.pop_back();
         }
     }
-
+    
     vector<string> generateParenthesis(int n) {
-        vector<string> ans;
-        generate(ans, n, "", 0, 0);
-        return ans;
+        string curr = "";
+        backtrack(n,curr, 0, 0);
+        return res;
     }
 };
