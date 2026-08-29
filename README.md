@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Cybrite/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Cybrite/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Cybrite/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0502-ipo](https://github.com/Cybrite/LeetCode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/Cybrite/LeetCode/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Cybrite/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/Cybrite/LeetCode/tree/master/0561-array-partition) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Cybrite/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Cybrite/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Cybrite/LeetCode/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/Cybrite/LeetCode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/Cybrite/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Cybrite/LeetCode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Cybrite/LeetCode/tree/master/0645-set-mismatch) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Cybrite/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Cybrite/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Cybrite/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/Cybrite/LeetCode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/Cybrite/LeetCode/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/Cybrite/LeetCode/tree/master/0948-sort-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Cybrite/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -559,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Cybrite/LeetCode/tree/master/0409-longest-palindrome) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Cybrite/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Cybrite/LeetCode/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/Cybrite/LeetCode/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/Cybrite/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Cybrite/LeetCode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Cybrite/LeetCode/tree/master/0680-valid-palindrome-ii) |
